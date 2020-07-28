@@ -1,0 +1,42 @@
+﻿.header {
+    display:flexbox;
+    background-color:#ff6a00;
+    height:250px;
+}
+   .header h1 {
+        text-align: center;
+        padding-top:150px;
+    }
+nav {
+    display:flexbox;
+    background-color:#000000;
+
+}
+    nav a {
+       color:white;
+       text-decoration:none;
+       
+    }
+    nav ul, li {
+      display:inline;  
+      padding-left:20px;
+    }
+    nav a:hover {
+        background-color:teal;
+        padding:15px;
+    }
+main{
+    display:flexbox;
+    float:right;
+
+}
+footer {
+    padding-left:150px;
+    color:white;
+    background-color:#ff6a00;
+    text-align:center;
+}
+copyright text-muted {
+        background-color:#ff6a00;
+    text-align:center;
+}

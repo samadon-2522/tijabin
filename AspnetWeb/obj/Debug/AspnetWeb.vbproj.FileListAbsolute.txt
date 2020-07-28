@@ -1,0 +1,25 @@
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\AspnetWeb.dll
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\AspnetWeb.pdb
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\AspnetWeb.xml
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.Resources.resources
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.vbproj.GenerateResource.Cache
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.dll
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.xml
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.pdb
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.vbprojResolveAssemblyReference.cache
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\Web.config
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\Web.Debug.config
+C:\Users\jama samadon\Desktop\JAMHURIYA SIM 6\ASP.NET\AspNetPractical\AspnetWeb\AspnetWeb\bin\Web.Release.config
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\Web.config
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\Web.Debug.config
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\Web.Release.config
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\AspnetWeb.dll.config
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\AspnetWeb.dll
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\AspnetWeb.pdb
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\bin\AspnetWeb.xml
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.vbprojResolveAssemblyReference.cache
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.Resources.resources
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.vbproj.GenerateResource.Cache
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.dll
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.xml
+C:\Users\jama samadon\Desktop\C117483 Jama Farah Abdi #UserName jama #Password 123\AspnetWeb\AspnetWeb\obj\Debug\AspnetWeb.pdb
